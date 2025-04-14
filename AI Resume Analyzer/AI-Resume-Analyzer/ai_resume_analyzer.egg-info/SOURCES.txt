@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+ai_resume_analyzer.egg-info/PKG-INFO
+ai_resume_analyzer.egg-info/SOURCES.txt
+ai_resume_analyzer.egg-info/dependency_links.txt
+ai_resume_analyzer.egg-info/requires.txt
+ai_resume_analyzer.egg-info/top_level.txt
