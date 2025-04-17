@@ -1,0 +1,11 @@
+[project]
+name = "interactive-map-explorer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "folium>=0.19.5",
+    "streamlit>=1.44.1",
+    "streamlit-folium>=0.24.1",
+]
